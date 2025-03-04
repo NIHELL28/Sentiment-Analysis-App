@@ -1,0 +1,4 @@
+git
+libgl1
+python3-dev
+build-essential
